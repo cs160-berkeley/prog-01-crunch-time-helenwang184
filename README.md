@@ -37,7 +37,7 @@ User can use the clear button to clear the calories and repetition/minutes.
 
 <img src="screenshots/6.png" height="400" alt="Screenshot"/>
 
-Burnr also can be used in vertical and horizontal orientations.
+Burnr also can be used in the horizontal orientation.
 
 ## Acknowledgments
 
