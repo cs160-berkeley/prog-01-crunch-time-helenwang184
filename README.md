@@ -12,9 +12,7 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Screenshots
 
-<img src="screenshots/fire.png" height="400" alt="Screenshot"/>
-
-<img src="screenshots/cover.png" height="400" alt="Screenshot"/>
+<img src="screenshots/fire.png" height="200" alt="Screenshot"/>
 
 <img src="screenshots/1.png" height="400" alt="Screenshot"/>
 
@@ -35,6 +33,10 @@ User can start typing next to any exercise. Instantly, the calories burnt and th
 <img src="screenshots/5.png" height="400" alt="Screenshot"/>
 
 User can use the clear button to clear the calories and repetition/minutes.
+
+<img src="screenshots/6.png" height="400" alt="Screenshot"/>
+
+Burnr also can be used in vertical and horizontal orientations.
 
 ## Acknowledgments
 
