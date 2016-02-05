@@ -14,8 +14,6 @@ See [your demo video title here] (https://link_to_your_video)
 
 <img src="screenshots/fire.png" height="250" alt="Screenshot"/>
 
-<img src="screenshots/cover.png" height="400" alt="Screenshot"/>
-
 <img src="screenshots/1.png" height="400" alt="Screenshot"/>
 
 The startup screen	has 0 calories and 0 amount of exercise. 
